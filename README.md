@@ -1,2 +1,3 @@
 # estudo-aprendendo
-Aprendendo Python - treinamentos 
+Começando meus estudos com Python :)
+Vou fazer aqui uma biblioteca de evolução.
