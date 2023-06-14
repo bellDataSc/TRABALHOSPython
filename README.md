@@ -5,6 +5,5 @@ Python no GOOGLE COLAB #Criação de notebook# E só consultar:
 - Oitava.py
 - Nona.py
 - Decima.py
-#Atualizações
 Manipulando arquivos CSV, unsando pandas.
 - Pandas.py
