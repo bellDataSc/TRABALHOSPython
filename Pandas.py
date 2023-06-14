@@ -10,3 +10,6 @@ data = pd.read_csv(file_path)
 # Now you can work with the 'data' DataFrame
 # For example, you can print the first few rows
 print(data.head())
+
+#Certifique-se de substituir "arquivo_em.csv"pelo caminho real e nome de arquivo do seu arquivo CSV. 
+#Além disso, verifique se o arquivo está no diretório correto ou forneça o caminho completo para o arquivo.
